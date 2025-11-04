@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# lesson\\MPL6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C6CBF-27DF-4D66-9B01-FABA8EC17C88}|MPL6\\MPL6.csproj|d:\\c# lesson\\mpl6\\mpl6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD0C6CBF-27DF-4D66-9B01-FABA8EC17C88}|MPL6\\MPL6.csproj|solutionrelative:mpl6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C6CBF-27DF-4D66-9B01-FABA8EC17C88}|MPL6\\MPL6.csproj|d:\\c# lesson\\mpl6\\mpl6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD0C6CBF-27DF-4D66-9B01-FABA8EC17C88}|MPL6\\MPL6.csproj|solutionrelative:mpl6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C6CBF-27DF-4D66-9B01-FABA8EC17C88}|MPL6\\MPL6.csproj|d:\\c# lesson\\mpl6\\mpl6\\mpl6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD0C6CBF-27DF-4D66-9B01-FABA8EC17C88}|MPL6\\MPL6.csproj|solutionrelative:mpl6\\mpl6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C6CBF-27DF-4D66-9B01-FABA8EC17C88}|MPL6\\MPL6.csproj|d:\\c# lesson\\mpl6\\mpl6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C6CBF-27DF-4D66-9B01-FABA8EC17C88}|MPL6\\MPL6.csproj|solutionrelative:mpl6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MPL6",
+              "DocumentMoniker": "D:\\C# lesson\\MPL6\\MPL6\\MPL6.csproj",
+              "RelativeDocumentMoniker": "MPL6\\MPL6.csproj",
+              "ToolTip": "D:\\C# lesson\\MPL6\\MPL6\\MPL6.csproj*",
+              "RelativeToolTip": "MPL6\\MPL6.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T09:11:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\C# lesson\\MPL6\\MPL6\\Form2.cs",
+              "RelativeDocumentMoniker": "MPL6\\Form2.cs",
+              "ToolTip": "D:\\C# lesson\\MPL6\\MPL6\\Form2.cs [Design]*",
+              "RelativeToolTip": "MPL6\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:11:18.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# lesson\\MPL6\\MPL6\\Form1.cs",
+              "RelativeDocumentMoniker": "MPL6\\Form1.cs",
+              "ToolTip": "D:\\C# lesson\\MPL6\\MPL6\\Form1.cs",
+              "RelativeToolTip": "MPL6\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAASwDoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:41:25.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# lesson\\MPL6\\MPL6\\Form1.cs",
+              "RelativeDocumentMoniker": "MPL6\\Form1.cs",
+              "ToolTip": "D:\\C# lesson\\MPL6\\MPL6\\Form1.cs [Design]",
+              "RelativeToolTip": "MPL6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:39:08.496Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
